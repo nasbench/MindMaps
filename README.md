@@ -13,7 +13,7 @@ This repository contains a collection of MindMaps that i've created
 - [HARS - HTTPS Asynchronous Reverse Shell (Server Handler)](./Understanding%20%26%20Detecting%20C2%20Frameworks/HARS%20-%20HTTPS%20Asynchronous%20Reverse%20Shell%20(Server%20Handler).xmind)
 - [TrevorC2 (Main Callback Flow)](./Understanding%20%26%20Detecting%20C2%20Frameworks/TrevorC2%20(Main%20Callback%20Flow).xmind)
 
-## inding Detection and Forensic Goodness In ETW Providers
+## Finding Detection and Forensic Goodness In ETW Providers
 
 - [Finding Detection and Forensic Goodness In ETW Providers](./Finding%20Detection%20and%20Forensic%20Goodness%20In%20ETW%20Providers/Finding%20Detection%20and%20Forensic%20Goodness%20In%20ETW%20Providers.xmind)
 
